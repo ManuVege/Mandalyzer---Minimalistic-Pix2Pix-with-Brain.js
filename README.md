@@ -55,9 +55,8 @@ To configure the model in its training phase, you must modify the file "script_g
 
 
 
-========================================================================
 Mandalyzer - Minimalistic Pix2Pix with Brain.js [En español]
-========================================================================
+-----------------------------------------------
 
 
 Presentacion
