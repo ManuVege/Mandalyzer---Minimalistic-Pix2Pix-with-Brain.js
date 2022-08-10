@@ -55,6 +55,7 @@ To configure the model in its training phase, you must modify the file "script_g
 
 -----------------------------------------------
 Some results of this Network
+:
 ![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z10Out.bmp?raw=true)
 ![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z11Out.bmp?raw=true)
 ![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z12Out.bmp?raw=true)
