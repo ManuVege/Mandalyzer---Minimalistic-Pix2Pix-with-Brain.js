@@ -53,6 +53,32 @@ The second script is "02-Train"
 which creates after training a file called "network_state.json"
 To configure the model in its training phase, you must modify the file "script_go.js"
 
+-----------------------------------------------
+Some results of this Network
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z10Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z11Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z12Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z13Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z14Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z15Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z16Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z17Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z18Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z19Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z1Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z20Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z21Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z2Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z3Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z4Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z5Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z6Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z7Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z8Out.bmp?raw=true)
+
+-----------------------------------------------
+
+
 
 
 Mandalyzer - Minimalistic Pix2Pix with Brain.js [En español]
