@@ -1,6 +1,32 @@
 Mandalyzer - Minimalistic Pix2Pix with Brain.js
 -----------------------------------------------
 
+-----------------------------------------------
+Some results of this Network
+:
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z10Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z11Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z12Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z13Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z14Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z15Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z16Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z17Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z18Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z19Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z1Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z20Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z21Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z2Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z3Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z4Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z5Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z6Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z7Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z8Out.bmp?raw=true)
+
+-----------------------------------------------
+
 Presentation
 ------------
 This project is just a small example, I think that this code has even more potential and that it would be possible to use it for simple Image and Sound filters, even though Brain.js may have limitations and not be convolutional, it is a good option for simple computers and small projects.
@@ -52,35 +78,9 @@ PD: Interesting results did not appear until the error approached 0.005.
 The second script is "02-Train"
 which creates after training a file called "network_state.json"
 To configure the model in its training phase, you must modify the file "script_go.js"
+Once the training is finished you should replace "network_state.json" from the "Predict" folder, with the new "network_state.json" from the "Train" folder.
 
------------------------------------------------
-Some results of this Network
-:
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z10Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z11Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z12Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z13Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z14Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z15Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z16Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z17Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z18Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z19Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z1Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z20Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z21Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z2Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z3Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z4Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z5Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z6Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z7Out.bmp?raw=true)
-![alt text](https://github.com/ManuVege/Mandalyzer---Minimalistic-Pix2Pix-with-Brain.js/blob/main/Results/z8Out.bmp?raw=true)
-
------------------------------------------------
-
-
-
+-----------------
 
 Mandalyzer - Minimalistic Pix2Pix with Brain.js [En español]
 -----------------------------------------------
@@ -137,5 +137,6 @@ PD: Los resultados interesantes no han aparecido hasta que el error se aproximo 
 El segudo script es "02-Train"
 que crea luego del entrenamiento un archivo llamado "network_state.json"
 Para configurar el modelo en su fase de entrenamiento, debes modificar el archivo "script_go.js"
+Una vez finalizado el entrenamiento deberias reemplazar "network_state.json" de la carpeta "Predict", por el nuevo "network_state.json" de la carpeta "Train".
 
 
